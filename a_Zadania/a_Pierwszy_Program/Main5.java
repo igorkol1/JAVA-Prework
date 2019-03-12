@@ -1,5 +1,6 @@
 
-public class CodersLab {
+//Nazwa klasy nie byłą zgodna z nazwą pliku .java
+public class Main5 {
 
 	public static void main(String[] args) {
 		System.out.print("Dzisiaj zaczynam kurs");
